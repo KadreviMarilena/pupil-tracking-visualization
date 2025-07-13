@@ -43,9 +43,7 @@ The scripts process `.tsv` data files and generate visual outputs to support res
 
 ---
 
-## License
-
-This module is shared for educational & research purposes under an open license.  
+## License 
 EyeRecToo is licensed under GPL.
 
 

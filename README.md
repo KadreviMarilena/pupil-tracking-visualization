@@ -15,7 +15,6 @@ The scripts process `.tsv` data files and generate visual outputs to support res
 ## Features
 
 - Parses `.tsv` files exported from EyeRecToo (e.g. `LeftEyeData.tsv`, `RightEyeData.tsv`)
-- Extracts pupil coordinates and tracking metadata
 - Generates plots and statistics with `matplotlib` and `pandas`
 - Modular Python scripts for different light conditions or test cases
 

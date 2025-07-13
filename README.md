@@ -40,6 +40,7 @@ The scripts process `.tsv` data files and generate visual outputs to support res
 ## Data Privacy
 
 - **No real measurement data** or visual output is included in this repository to protect privacy.
+- No real output examples included due to privacy.
 
 ---
 
